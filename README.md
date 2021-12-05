@@ -23,15 +23,20 @@ User_ID , Product_ID, Gende, Age, Occupation, City_Category, Stay_In_Current_Cit
 
 ## Tasks to be performed:
 
+### analysis_using_python:
 Task 1.1-Data manipulation using Python \
 Task 1.2-Analysis using SQL Queries \
 Task 1.3-Statistical Analysis using Python \
 Task 2.1-Visualization using Python \
 Task 2.2-Exploratory Data Analysis \
 Task 2.3-Visualization using Power-BI \
-Task 2.4-Model Building using ML algorithms \
+Task 2.4-Model Building using ML algorithms
+
+### Analysis_using_bigtools&cloud:
 Task 3.1-Data Analysis using Big Data Tools \
-Task 3.2-Data Analysis on Cloud \
+Task 3.2-Data Analysis on Cloud
+
+### deployment_of_ml model:
 Task 3.3-Deployment of ML model using Flask
 
 
