@@ -19,6 +19,21 @@ The data set also contains customer demographics (age, gender, marital status, c
 
 ## Data Dictionary:
 
-User_ID , Product_ID, Gende, Age, Occupation, City_Category, Stay_In_Current_City_Years, Marital_Status, Product_Category_1, Product_Category_2, Product_Category_3, Purchase	  (Target Variable)
+User_ID , Product_ID, Gende, Age, Occupation, City_Category, Stay_In_Current_City_Years, Marital_Status, Product_Category_1, Product_Category_2, Product_Category_3, Purchase	  (Target Variable).
+
+## Tasks to be performed:
+
+Task 1.1-Data manipulation using Python
+Task 1.2-Analysis using SQL Queries 
+Task 1.3-Statistical Analysis using Python 
+Task 2.1-Visualization using Python
+Task 2.2-Exploratory Data Analysis
+Task 2.3-Visualization using Power-BI
+Task 2.4-Model Building using ML algorithms
+Task 3.1-Data Analysis using Big Data Tools
+Task 3.2-Data Analysis on Cloud
+Task 3.3-Deployment of ML model using Flask
+
+
 
 
